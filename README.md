@@ -3,6 +3,8 @@
 
 Let's say there's a poll with results like this:
 
+*Initially a Swift app with a very basic interface, as I was learning Swift at the time. Later turned into a Python CLI program, more fitting.*
+
 > **What's your favorite color?**
 > - Blue – **26.3%**
 > - Purple – **20.5%**
