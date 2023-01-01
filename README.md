@@ -1,7 +1,7 @@
 # Sesame
 **Tiny app that tells you the minimum votes for a poll, based on the poll's resulting percentages.**
 
-*Initially a Swift app with a very basic interface, as I was learning Swift at the time. Later turned into a Python CLI program, more fitting.*
+*Initially a SwiftUI app with a very basic interface, as I was learning Swift at the time. Later turned into a Python CLI program, more fitting.*
 
 Let's say there's a poll with results like this:
 
